@@ -70,8 +70,8 @@ GitHub Trophies >>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aashishsrivastava&&theme=tokyonight" alt="aashishsrivastava" />
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=aashishsrivastava&show_icons=true&locale=en&theme=tokyonight" alt="aashishsrivastava" />
+<img width=390 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishsrivastava&&theme=tokyonight" alt="aashishsrivastava" />
+<img width=390 align="right" src="https://github-readme-stats.vercel.app/api?username=aashishsrivastava&show_icons=true&locale=en&theme=tokyonight" alt="aashishsrivastava" />
  <br/>
  <br/>
  <br/>
