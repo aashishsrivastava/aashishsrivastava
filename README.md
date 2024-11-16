@@ -29,16 +29,19 @@ GitHub Trophies >>
 
 - 📫 How to reach me **thissideashiah@gmail.com**
 
+<p><br/></p>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/aashish_wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashish_wd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashish-kumar-srivastava-aaa6982b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-srivastava-aaa6982b0" height="30" width="40" /></a>
 <a href="https://instagram.com/aashish_wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_wd" height="30" width="40" /></a>
 </p>
-<p><br/></p>
 <p><hr/></p>
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
+-->
 
+# 💻 Languages and Tools:
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
