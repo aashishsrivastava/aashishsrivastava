@@ -67,6 +67,7 @@ GitHub Trophies >>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashishsrivastava&show_icons=true&locale=en&theme=tokyonight" alt="aashishsrivastava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishsrivastava&&theme=tokyonight" alt="aashishsrivastava" /></p>
+[![](https://visitcount.itsvg.in/api?id=aashishsrivastava&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- 
 ## Hi there 👋
