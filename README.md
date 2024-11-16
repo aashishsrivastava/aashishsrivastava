@@ -35,6 +35,7 @@ GitHub Trophies >>
 <a href="https://linkedin.com/in/ashish-kumar-srivastava-aaa6982b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-srivastava-aaa6982b0" height="30" width="40" /></a>
 <a href="https://instagram.com/aashish_wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_wd" height="30" width="40" /></a>
 </p>
+<p><br/></p>
 <p><hr/></p>
 <h3 align="left">Languages and Tools:</h3>
 
