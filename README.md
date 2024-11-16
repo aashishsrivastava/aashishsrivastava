@@ -16,10 +16,12 @@ from Pranjal Shukla's profile >>
 
 GitHub Trophies >>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashishsrivastava" alt="aashishsrivastava" /></a> </p>
--->
+
 
 
 <p align="left"> <a href="https://twitter.com/aashish_wd" target="blank"><img src="https://img.shields.io/twitter/follow/aashish_wd?logo=twitter&style=for-the-badge" alt="aashish_wd" /></a> </p>
+-->
+
 
 - 🌱 I’m currently learning **ReactJs, Redux, NodeJs, MmongoDB, ExpressJs**
 
@@ -36,7 +38,6 @@ GitHub Trophies >>
 <a href="https://linkedin.com/in/ashish-kumar-srivastava-aaa6982b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-kumar-srivastava-aaa6982b0" height="30" width="40" /></a>
 <a href="https://instagram.com/aashish_wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish_wd" height="30" width="40" /></a>
 </p>
-<p><hr/></p>
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
 -->
